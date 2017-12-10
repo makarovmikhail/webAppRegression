@@ -1,3 +1,2 @@
-language: java
 deploy:
 - provider: azure_web_apps
